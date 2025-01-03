@@ -1,7 +1,7 @@
 # Backend
 Java backend preparation
 
-[Java core]()
+[Java core](https://github.com/a184ot/backend/blob/main/library/JAVA_CORE.md)
 
 [Spring]()
 
